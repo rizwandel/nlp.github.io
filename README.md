@@ -3,7 +3,7 @@
 
 ```markdown
 
-![Image](<img ='https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif'>)
+![Image](<img src ='https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif'>)
 
 
 # Natural Language Processing 
